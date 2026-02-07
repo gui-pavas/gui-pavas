@@ -2,7 +2,7 @@
 
 > ## Desenvolvedor Fullstack !
 
-<div styles="flex-1; height:1px; width: full;"/>
+<div styles="flex-1; height:1px; width: full; margin:2px 0 2px"/>
 
 <a href="https://www.linkedin.com/in/guilherme-pavani-06271729b/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -10,7 +10,7 @@
 
 <br/>
 
-![Akifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akifer2&show_icons=true&theme=tokyonight)
+<iframe src="https://github-readme-stats.vercel.app/api?username=Akifer2&show_icons=true&theme=tokyonight" description="github stats"></iframe>
 
 <br/>
 
@@ -27,7 +27,11 @@
 
 <br/>
 
-> estudante de programação, atualmente cursando técnico de informática. sempre fui apaixonado por design e tecnologia. meu sonho sempre foi ser programador. 
+> Desenvolvedor Fullstack Pleno com 2 anos de experiência no desenvolvimento de aplicações web escaláveis, 
+atuando principalmente com React, TypeScript e Node.js. Experiência sólida em integração front-end e back
+end, construção de dashboards, aplicações orientadas a dados e uso de mapas interativos em tempo real. 
+Atuação como referência técnica do time, apoiando decisões arquiteturais e garantindo código limpo, 
+performático e sustentáve
 
 <br/>
 
