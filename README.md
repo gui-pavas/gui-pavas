@@ -21,18 +21,7 @@ Experiência sólida em:
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Akifer2&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akifer2&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gui-pavas)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
