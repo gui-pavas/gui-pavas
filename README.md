@@ -1,6 +1,6 @@
-# 💻 Seja bem-vindo ao meu GitHub!
+#  Seja bem-vindo ao meu GitHub!
 
-## Desenvolvedor Fullstack 🚀
+## Desenvolvedor Fullstack 
 
 Desenvolvedor Fullstack Pleno com **2 anos de experiência** no desenvolvimento de aplicações web escaláveis, 
 atuando principalmente com **React, TypeScript, Node.js e Laravel**.
@@ -13,7 +13,7 @@ Experiência sólida em:
 
 ---
 
-### 🔗 Conecte-se comigo
+### Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/guilherme-pavani-06271729b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -21,7 +21,17 @@ Experiência sólida em:
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gui-pavas)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gui-pavas&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gui-pavasra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gui-pavasra&show_icons=true" />
+</picture>
 
 ---
 
