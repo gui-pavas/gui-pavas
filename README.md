@@ -23,15 +23,16 @@ Experiência sólida em:
 
 ### 📊 Estatísticas do GitHub
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Akifer2&show_icons=true&theme=tokyonight&count_private=true"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akifer2&layout=compact&theme=tokyonight"
-  height="180"
-/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Akifer2&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akifer2&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+</p>
 
 ---
 
