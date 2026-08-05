@@ -4,7 +4,7 @@
 
 ### 🚀 Sobre mim
 
-- 🔭 Projeto atual: **[Finora](https://github.com/gui-pavas/finora)** — projeto focado em gestão e controle financeiro.
+- 🔭 Projeto atual: **[DockerMonitor](https://github.com/gui-pavas/docker-moniotr)** — Monitor de containers Dockers multi-plataforma.
 - 📫 Como me encontrar: **[guipavanis2@gmail.com](mailto:guipavanis2@gmail.com)**
 
 ---
