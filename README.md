@@ -4,7 +4,7 @@
 
 ### 🚀 Sobre mim
 
-- 🔭 Projeto atual: **[DockerMonitor](https://github.com/gui-pavas/docker-moniotr)** — Monitor de containers Dockers multi-plataforma.
+- 🔭 Projeto atual: **[DockerMonitor](https://github.com/gui-pavas/docker-monitor)** — Monitor de containers Dockers multi-plataforma.
 - 📫 Como me encontrar: **[guipavanis2@gmail.com](mailto:guipavanis2@gmail.com)**
 
 ---
