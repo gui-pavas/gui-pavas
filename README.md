@@ -4,7 +4,7 @@
 
 ### 🚀 Sobre mim
 
-- 🔭 Projeto atual: **[Huddle](https://github.com/projecthuddle/huddle)** — rede social de codigo aberto, com funcionalidade de texto, voz e video, com foco total na transparencia.
+- 🔭 Projeto atual: **[Huddle](https://github.com/project-huddle/huddle)** — rede social de codigo aberto, com funcionalidade de texto, voz e video, com foco total na transparencia.
 - 📫 Como me encontrar: **[guipavanis2@gmail.com](mailto:guipavanis2@gmail.com)**
 
 ---
